@@ -1,0 +1,21 @@
+{
+  "name": "md-example",
+  "authors": [
+    "Tomi Virkki <virkki@vaadin.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "Apache-2.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vaadin-material-theme": "0.4.0",
+    "vaadin-combo-box": "vaadin/vaadin-combo-box#^4.0.1"
+  }
+}
